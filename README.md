@@ -53,6 +53,7 @@ Every LLM is implemented from scratch with **no abstractions** and **full contro
 # Quick start
 Install LitGPT
 ```
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 pip install 'litgpt[all]'
 ```
 
